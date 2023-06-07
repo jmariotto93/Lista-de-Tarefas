@@ -1,0 +1,33 @@
+div {
+  width: 100%;
+  height: 350px;
+  background-color: #2b2a46;
+  border-radius: 4%;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+}
+.campoInput {
+  display: flex;
+  flex-direction: column;
+}
+p {
+  text-align: center;
+}
+.input-nova-tarefa {
+  border-radius: 10px;
+}
+.btn-add-tarefa {
+  border-radius: 10px;
+}
+.btn-add-tarefa:hover {
+  background-color: #2b2a48;
+}
+ul {
+  list-style: none;
+}
+li {
+  text-align: center;
+}
